@@ -1,0 +1,31 @@
+.header{
+    width: 100%;
+    margin:0px;
+    font-size: 26px !important;
+}
+.header:hover{
+    background-color: royalblue;
+}
+.header1{
+    float: none;
+    background-color: navy;
+    font-size: 16px !important;
+    padding: 10px;
+    box-shadow: 1px 1px 20px blanchedalmond;
+}
+.results:hover{
+    background-color: skyblue;
+}
+.results1:hover{
+    background-color: gold;
+}
+.copy_right_footer{
+    position:fixed;
+    bottom: 0;
+    line-height: 6;
+    background-color: gray;
+    text-align: center;
+    columns: black;
+    width: 100%;
+    font-size: 24px !important;
+}
